@@ -54,9 +54,8 @@ Total number of rows: 180
 // 
 // DATA ARE IN THE FOLLOWING UNITS.
 // --------------------------------
-// Acceleration signals (**Acc**) from the smartphone accelerometer are in standard gravity units 'g'.
-// Gyroscopic signals (**Gyro**) from the smartphone gyroscope are in units of radians/second.
-//
+Acceleration signals (i.e., **Acc**) from the smartphone accelerometer are in standard gravity units 'g'.
+Gyroscopic signals (i.e., **Gyro**) from the smartphone gyroscope are in units of radians/second.
 
  $ tBodyAcc-mean()-X          : num  0.222 0.261 0.279 0.277 0.289 ...  
  $ tBodyAcc-mean()-Y          : num  -0.04051 -0.00131 -0.01614 -0.01738 -0.00992 ...  
