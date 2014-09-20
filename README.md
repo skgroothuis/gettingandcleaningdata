@@ -26,7 +26,6 @@ The other documents in this repository are:
   
 ### OUTPUTS
 **./data** - Folder on your working directory that contains the untouched zipped and unzipped data from UCI.  
-**./UCI-HAR-TidyDataSet.csv** - The final product in .csv format.  
 **./UCI-HAR-TidyDataSet.txt** - The final product in .txt format.  
 
 ### GENERAL STATISTICS
